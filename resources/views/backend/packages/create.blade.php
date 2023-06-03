@@ -75,7 +75,7 @@
                                                             <option value="">@lang('backend.exchange-choose')</option>
                                                             <option value="AZN">AZN</option>
                                                             <option value="USD">USD</option>
-                                                            <option value="RUBL">RUBL</option>
+                                                            <option value="Pубль">Pубль</option>
                                                         </select>
                                                         <div class="valid-feedback">
                                                             @lang('backend.exchange') @lang('messages.is-correct')

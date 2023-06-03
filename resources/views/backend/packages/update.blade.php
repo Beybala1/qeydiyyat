@@ -80,7 +80,7 @@
                                                             <option value="">@lang('backend.exchange-choose')</option>
                                                             <option value="AZN" {{ ($package->translate($lan->code)->exchange == 'AZN') ? 'selected' : '' }}>AZN</option>
                                                             <option value="USD" {{ ($package->translate($lan->code)->exchange == 'USD') ? 'selected' : '' }}>USD</option>
-                                                            <option value="RUBL" {{ ($package->translate($lan->code)->exchange == 'RUBL') ? 'selected' : '' }}>RUBL</option>
+                                                            <option value="Pубль" {{ ($package->translate($lan->code)->exchange == 'Pубль') ? 'selected' : '' }}>Pубль</option>
                                                         </select>
                                                     </div>
                                                 </div>
